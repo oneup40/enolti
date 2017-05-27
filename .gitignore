@@ -1,0 +1,11 @@
+# pip build artifacts
+build
+*.egg-info
+dist
+
+# python artifacts
+*.pyc
+
+# coverage artifacts
+.coverage
+coverage/
